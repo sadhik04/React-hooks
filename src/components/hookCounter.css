@@ -1,0 +1,41 @@
+.increment_btn {
+  background-color: aquamarine;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+  box-shadow: 3px 3px 3px lightgrey;
+}
+
+.decrement_btn {
+  background-color: rgb(255, 127, 127);
+  border-radius: 25px;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+  box-shadow: 3px 3px 3px lightgrey;
+}
+.increment5_btn {
+  background-color: rgb(92, 241, 249);
+  border-radius: 25px;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+  box-shadow: 3px 3px 3px lightgrey;
+}
+.decrement5_btn {
+  background-color: rgb(255, 0, 0);
+  border-radius: 25px;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+  box-shadow: 3px 3px 3px lightgrey;
+}
+.reset_btn {
+  background-color: rgb(62, 209, 104);
+  border-radius: 25px;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+  box-shadow: 3px 3px 3px lightgrey;
+}
